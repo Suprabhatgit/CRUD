@@ -1,0 +1,6 @@
+@CRUDAPI_DOTNET8_HostAddress = http://localhost:5098
+
+GET {{CRUDAPI_DOTNET8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
